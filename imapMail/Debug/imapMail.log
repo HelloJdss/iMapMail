@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  sock.cpp
+e:\github\imap\imapmail\imapmail\sock.cpp(26): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(2216): note: 参见“gethostbyname”的声明
+e:\github\imap\imapmail\imapmail\sock.cpp(33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1828): note: 参见“inet_addr”的声明
+  imapMail.cpp
+  WSA.cpp
+  正在生成代码...
+  imapMail.vcxproj -> E:\Github\imap\imapMail\Debug\imapMail.exe
+  imapMail.vcxproj -> E:\Github\imap\imapMail\Debug\imapMail.pdb (Partial PDB)
